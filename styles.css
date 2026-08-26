@@ -1,0 +1,9 @@
+/* Clickable rows in the bulk question value table. */
+#quizbulkmarks-table .quizbulkmarks-clickable-row {
+    cursor: pointer;
+}
+
+#quizbulkmarks-table .quizbulkmarks-clickable-row:focus-visible {
+    outline: 0.2rem solid var(--bs-focus-ring-color, rgba(13, 110, 253, 0.25));
+    outline-offset: -0.2rem;
+}

@@ -1,0 +1,44 @@
+name: Bug report
+description: Report a reproducible problem in local_quizbulkmarks
+title: "[Bug] "
+labels: [bug]
+body:
+  - type: input
+    id: moodle
+    attributes:
+      label: Moodle version
+      placeholder: "e.g. 5.2.2"
+    validations:
+      required: true
+  - type: input
+    id: php
+    attributes:
+      label: PHP version
+  - type: input
+    id: database
+    attributes:
+      label: Database
+      placeholder: "e.g. PostgreSQL 17"
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Steps to reproduce
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behaviour
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behaviour
+    validations:
+      required: true
+  - type: textarea
+    id: debugging
+    attributes:
+      label: Debugging output
+      description: Remove credentials and personal data before posting.
