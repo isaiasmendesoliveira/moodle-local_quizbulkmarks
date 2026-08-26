@@ -85,3 +85,8 @@ Screenshots should not contain personal student data, private course information
 - [ ] Replace all `<username>` URL placeholders in Marketplace fields.
 - [ ] Create a Git tag for the release candidate.
 - [ ] After successful validation, promote to version 1.0.0 and `MATURITY_STABLE`.
+
+
+## Languages
+
+Bundled interface languages: English (`en`), Portuguese - Brazil (`pt_br`), and Spanish (`es`). English remains the source language for Moodle translation workflows.

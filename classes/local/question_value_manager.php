@@ -105,7 +105,9 @@ final class question_value_manager {
         global $DB;
 
         if ($newmaxmark < 0 || !is_finite($newmaxmark)) {
-            throw new \invalid_parameter_exception('The maximum mark must be a finite value greater than or equal to zero.');
+            throw new \invalid_parameter_exception(
+                get_string('exceptioninvalidmaxmark', 'local_quizbulkmarks')
+            );
         }
 
         $structure = $this->quizobj->get_structure();

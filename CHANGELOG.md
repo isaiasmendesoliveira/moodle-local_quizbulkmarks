@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.9.5 - 2026-08-26
+
+- Added a complete Spanish (`es`) interface translation.
+- Retained English (`en`) as the source language and Brazilian Portuguese (`pt_br`) as a bundled translation.
+- Reviewed interface, accessibility, validation, and quiz-editor button strings to ensure they use Moodle's String API.
+- Localised the invalid maximum-mark exception message instead of keeping it hard-coded in PHP.
+- Documented the three bundled interface languages.
+- No changes to the bulk-editing behaviour.
+
 All notable changes to this project are documented in this file.
 
 ## 0.9.4 - 2026-08-25

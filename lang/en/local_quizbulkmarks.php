@@ -35,6 +35,7 @@ $string['editpagebutton'] = 'Set question values in bulk';
 $string['editpagebuttonaria'] = 'Set the same maximum mark for multiple questions in this quiz';
 $string['errorinvalidvalue'] = 'Enter a valid numeric value greater than or equal to zero.';
 $string['errornoselection'] = 'Select at least one question.';
+$string['exceptioninvalidmaxmark'] = 'The maximum mark must be a finite value greater than or equal to zero.';
 $string['generalselection'] = 'General selection';
 $string['heading'] = 'Set question values in bulk';
 $string['identification'] = 'Identification';

@@ -97,7 +97,13 @@ Before publishing a stable 1.0.0 release, run the CI workflow successfully for e
 
 ## Translation
 
-English is the source language. A Brazilian Portuguese translation is included for development and local use. After Marketplace publication, translations can also be maintained through Moodle's translation infrastructure where applicable.
+The plugin currently includes three interface languages:
+
+- English (`en`) — source language.
+- Portuguese - Brazil (`pt_br`).
+- Spanish (`es`).
+
+All plugin interface strings, accessibility labels, validation messages, and the button added to the native quiz Questions page use Moodle's String API. Question type names are obtained from the active Moodle language pack. After Marketplace publication, community translations can also be maintained through Moodle's translation infrastructure where applicable.
 
 ## License
 

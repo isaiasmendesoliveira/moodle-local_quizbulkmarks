@@ -35,6 +35,7 @@ $string['editpagebutton'] = 'Definir valores';
 $string['editpagebuttonaria'] = 'Definir a mesma nota máxima para várias questões deste questionário';
 $string['errorinvalidvalue'] = 'Informe um valor numérico válido, igual ou superior a zero.';
 $string['errornoselection'] = 'Selecione pelo menos uma questão.';
+$string['exceptioninvalidmaxmark'] = 'A nota máxima deve ser um valor finito igual ou superior a zero.';
 $string['generalselection'] = 'Seleção geral';
 $string['heading'] = 'Definir valores das questões em grupo';
 $string['identification'] = 'Identificação';
