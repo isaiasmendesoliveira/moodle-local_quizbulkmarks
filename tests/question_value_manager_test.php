@@ -98,6 +98,7 @@ final class question_value_manager_test extends \advanced_testcase {
         $changed = $manager->apply_value([$rows[0]['slotid']], 3.0);
         $this->assertSame(0, $changed);
     }
+
     /**
      * Test that invalid negative maximum marks are rejected.
      *
@@ -116,5 +117,4 @@ final class question_value_manager_test extends \advanced_testcase {
         $this->expectException(\invalid_parameter_exception::class);
         $manager->apply_value([], -1.0);
     }
-
 }

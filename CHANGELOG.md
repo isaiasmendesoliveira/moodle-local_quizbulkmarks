@@ -2,6 +2,14 @@
 
 All notable changes to this project are documented in this file.
 
+## 0.9.4 - 2026-08-25
+
+- Fixed Moodle Code Checker failure in the PHPUnit test class formatting.
+- Reordered English and Portuguese language strings according to Moodle coding standards.
+- Removed an unnecessary `MOODLE_INTERNAL` check from `lib.php` as reported by the code checker.
+- Added a manual GitHub Actions workflow to rebuild canonical Moodle AMD build artifacts when needed.
+- No changes to the plugin's user-facing functionality.
+
 ## 0.9.3 - 2026-08-25
 
 - Added the introductory information card before quiz identification.
