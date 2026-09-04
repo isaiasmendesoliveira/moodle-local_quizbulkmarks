@@ -1,5 +1,12 @@
 # Bulk Quiz Question Values
 
+<p align="center">
+  <img
+    src="docs/images/bulk-quiz-question-values-logo.png"
+    alt="Activity Date Status"
+    width="320">
+</p>
+
 **Bulk Quiz Question Values** (`local_quizbulkmarks`) is a local plugin for Moodle LMS that allows teachers to select multiple questions within the same quiz and assign the same maximum mark to all selected questions in a single operation, reducing repetitive manual editing while keeping Moodle's native quiz and grading logic in control.
 
 > **Public release:** 1.0.0  
