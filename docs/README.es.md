@@ -15,6 +15,8 @@
 
 Documentación: [English](../README.md) | [Português (Brasil)](README.pt-BR.md) | **Español**
 
+Documentación técnica: **[Arquitectura e implementación](TECHNICAL.es.md)**
+
 ## ¿Por qué este plugin?
 
 Moodle ya permite a los docentes establecer la calificación máxima de cada pregunta de un cuestionario. Sin embargo, cuando un cuestionario contiene muchas preguntas, asignar o modificar esos valores individualmente puede resultar una tarea repetitiva y consumir mucho tiempo.
