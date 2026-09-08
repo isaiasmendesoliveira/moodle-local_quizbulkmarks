@@ -15,9 +15,11 @@
 
 Documentação: [English](../README.md) | **Português (Brasil)** | [Español](README.es.md)
 
+Documentação técnica: **[Architecture and implementation](TECHNICAL.pt-BR.md)**
+
 ## Por que este plugin?
 
-O Moodle já permite que os professores definam o valor máximo de cada questão em um questionário. No entanto, quando um questionário contém muitas questões, atribuir ou alterar esses valores individualmente pode se tornar uma tarefa repetitiva e demorada.
+O Moodle já permite que os professores definam o valor máximo de cada questão em um questionário. No entanto, quando um questionário contém muitas questões, atribuir ou alterar esses valores individualmente pode tornar-se uma tarefa repetitiva e demorada.
 
 O Bulk Quiz Question Values simplifica esse fluxo de trabalho ao permitir que os professores selecionem várias questões e apliquem o mesmo valor máximo (`maxmark`) a todas elas de uma única vez.
 
