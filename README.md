@@ -14,6 +14,7 @@
 > **License:** GNU GPL v3 or later
 
 Documentation: **English** | [Português (Brasil)](docs/README.pt-BR.md) | [Español](docs/README.es.md)
+Technical documentation: **[Architecture and implementation](docs/TECHNICAL.md)**
 
 ## Why this plugin?
 
