@@ -15,7 +15,7 @@
 
 Documentação: [English](../README.md) | **Português (Brasil)** | [Español](README.es.md)
 
-Documentação técnica: **[Architecture and implementation](TECHNICAL.pt-BR.md)**
+Documentação técnica: **[Arquitetura e implementação](TECHNICAL.pt-BR.md)**
 
 ## Por que este plugin?
 
